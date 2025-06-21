@@ -40,4 +40,12 @@ html {
     font-size: 62.5%;
     /* 画面の横幅が1200px以上の場合 */
   }
+}
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  background-color: #ffffff;
 }/*# sourceMappingURL=main.css.map */
