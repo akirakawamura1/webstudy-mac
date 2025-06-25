@@ -48,4 +48,13 @@ html {
   right: 0;
   z-index: 1000;
   background-color: #ffffff;
+}
+
+.header_container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 116rem;
+  margin: 0 auto;
+  height: 11.5rem;
 }/*# sourceMappingURL=main.css.map */
